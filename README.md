@@ -13,3 +13,6 @@ The sentiment analysis model uses a Logistic Regression algorithm to predict whe
   - [numpy](https://numpy.org/)
   - [scikit-learn](https://scikit-learn.org/stable/)
 
+## Contributing
+
+If you would like to contribute to the project, feel free to submit issues or pull requests. Contributions are welcome and appreciated!
