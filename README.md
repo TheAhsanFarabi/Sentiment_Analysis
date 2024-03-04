@@ -10,6 +10,6 @@ The sentiment analysis model uses a Logistic Regression algorithm to predict whe
 
 - [Python](https://www.python.org/) 3.x
 - Required Python libraries (install using `pip install`):
-  - [numPy](https://numpy.org/)
+  - [numpy](https://numpy.org/)
   - [scikit-learn](https://scikit-learn.org/stable/)
 
